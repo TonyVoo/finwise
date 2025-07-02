@@ -1,24 +1,25 @@
 {
   "expo": {
-    "name": "finwise",
+    "name": "Finwise",
     "slug": "finwise",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#00D09E"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "image": "./assets/adaptive-icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "black"
       },
       "edgeToEdgeEnabled": true
     },

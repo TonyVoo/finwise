@@ -12,6 +12,7 @@ module.exports = function (api) {
           '@services': './services',
           '@types': './types',
           '@utils': './utils',
+          '@context': './context'
         },
       }],
     ],
